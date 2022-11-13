@@ -1,6 +1,5 @@
 # Python Program to Check if a Number is a Palindrome
-
-class Palindrome:
+class Program:
     def __init__(self):
         self.rem = 0
         self.add = 0
@@ -16,11 +15,9 @@ class Palindrome:
         return (self.dup == self.add)
 
 val = int(input("Enter number to check for Palindrome: "))
+sol = Program()
 
-sol = Palindrome()
-a = sol.isPalindrome(val)
-
-if (a):
+if (sol.isPalindrome(val)):
     print("Entered number is Palindrome")
 else:
     print("Entered number is not a Palindrome")

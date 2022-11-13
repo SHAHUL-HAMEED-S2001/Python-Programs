@@ -1,6 +1,6 @@
 # Python Program to Reverse a Number
 
-class Reverse:
+class Program:
     def __init__(self):
         self.rem = 0
         self.add = 0
@@ -17,6 +17,6 @@ class Reverse:
             num //= 10
 
 val = int(input("Enter a number to reverse: "))
-sol = Reverse()
+sol = Program()
 sol.printReverse(val)
 
