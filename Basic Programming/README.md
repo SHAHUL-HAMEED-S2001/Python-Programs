@@ -8,3 +8,5 @@
 6. Python Program to Print All Integers that Aren’t Divisible by Either 2 or 3
 7. Python Program to Find Numbers which are Divisible by 7 and Multiple of 5 in a Given Range
 8. Python Program to Print All Numbers in a Range Divisible by a Given Number
+9. Python Program to Find Sum of Digits of a Number
+10. Python Program to Find Sum of Digit of a Number using Recursion
