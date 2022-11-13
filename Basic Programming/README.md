@@ -3,5 +3,5 @@
 1. Python Program Hello World
 2. Python Program to Check Whether a Given Number is Even or Odd using Recursion
 3. Python Program to Print All Odd Numbers in a Range
-4. Python Program to Check if a Number is a Palindrome]
+4. Python Program to Check if a Number is a Palindrome
 5. Python Program to Reverse a Number
