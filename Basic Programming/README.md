@@ -18,15 +18,6 @@
 16. Python Program to find the binary equivalent of a number using Recursion
 17. Python Program to print the table of a given number
 18. Python Program to take in the marks of 5 subjects and display the grade
-19.
-20.
-21.
-22.
-23.
-24.
-25.
-26.
-27.
-28.
-29.
-30.
+19. Python Program to check whether a given year is a leap year or not
+20. Python Program to read height in centimeters and then convert the height to feet and inches
+21. Python Program to read a number n and compute n+nn+nnn.
