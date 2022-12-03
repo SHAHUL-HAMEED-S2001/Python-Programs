@@ -10,3 +10,23 @@
 8. Python Program to Print All Numbers in a Range Divisible by a Given Number
 9. Python Program to Find Sum of Digits of a Number
 10. Python Program to Find Sum of Digit of a Number using Recursion
+11. Python Program to check whether a number is positive or negative.
+12
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
