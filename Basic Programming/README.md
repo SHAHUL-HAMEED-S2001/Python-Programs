@@ -17,7 +17,7 @@
 15. Python Program to find the binary equivalent of a number
 16. Python Program to find the binary equivalent of a number using Recursion
 17. Python Program to print the table of a given number
-18. 
+18. Python Program to take in the marks of 5 subjects and display the grade
 19.
 20.
 21.
