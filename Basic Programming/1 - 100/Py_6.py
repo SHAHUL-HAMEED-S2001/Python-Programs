@@ -1,5 +1,4 @@
 # Python Program to Print All Integers that Aren’t Divisible by Either 2 or 3
-
 class Program:
     def __init__(self,start,end):
         self.start = start
