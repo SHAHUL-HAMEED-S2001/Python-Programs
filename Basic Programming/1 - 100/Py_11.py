@@ -1,3 +1,4 @@
+
 class Program:
     def isPositive(self,val):
         if(val>0): return 0
