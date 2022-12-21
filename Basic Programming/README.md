@@ -33,7 +33,7 @@
 31. Python Program to Find the Prime Factors of a Number
 32. Python Program to Check If Two Numbers are Amicable Numbers or Not
 34. Python Program to Find Whether a Number is a Power of Two
-35. Python Program to Calculate the Power using Recursion
+35. 35. Python Program to Calculate the Power using Recursion
 36. Python Program to Find Product of Two Numbers using Recursion
 37. Python Program to Find All Perfect Squares in the Given Range
 38. Python Program to Print All Possible Combinations of Three Digits
