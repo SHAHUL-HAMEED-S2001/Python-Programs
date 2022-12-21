@@ -10,8 +10,10 @@ class Program:
             if (i%2==1):
                 print(i)
 
-start = int(input("Enter the lower limit for the range: "))
-end = int(input("Enter the upper limit for the range: "))
+print("Python Program to Print All Odd Numbers in a Range")
+
+start = int(input("Enter the lower limit: "))
+end = int(input("Enter the upper limit: "))
 
 Soln = Program(start, end)
 Soln.printOddNumbers()

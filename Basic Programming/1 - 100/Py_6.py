@@ -9,6 +9,8 @@ class Program:
         for i in range(self.start,self.end+1):
             if((i%2 != 0) & (i%3 != 0)): print(i)
 
+print("Python Program to Print All Integers that Aren’t Divisible by Either 2 or 3")
+
 start = int(input("Enter the lower limit for the range: "))
 end = int(input("Enter the upper limit for the range: "))
 

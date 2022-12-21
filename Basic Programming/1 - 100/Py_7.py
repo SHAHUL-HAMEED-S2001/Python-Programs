@@ -10,6 +10,8 @@ class Program:
         for i in range(self.start,self.end+1):
             if((i%7 == 0) & (i%5 == 0)): print(i)
 
+print("Python Program to Find Numbers which are Divisible by 7 and Multiple of 5 in a Given Range")
+
 start = int(input("Enter the lower limit for the range: "))
 end = int(input("Enter the upper limit for the range: "))
 
