@@ -5,11 +5,11 @@ class Program:
         if num == 0:
             return 
         print(num%10,end="")
-        soln.printReverse(num//10)
+        sol.printReverse(num//10)
 
 val = int(input("Enter a number to reverse: "))
 sol = Program()
-print("Reversed Number of",num,"is ",end="")
+print("Reversed Number of",val,"is ",end="")
 sol.printReverse(val)
 
 """
